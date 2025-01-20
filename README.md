@@ -1,4 +1,4 @@
-# foro-hud-challenge-backend
+# foro-hub-challenge-backend
 Alura Latam | ONE - Curso Practicando Spring Boot : Challenge Foro Hud
 
 
